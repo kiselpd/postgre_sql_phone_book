@@ -285,6 +285,5 @@ def solution():
     ph_book.disconnect()
 
 
-
 if __name__=="__main__":
     solution()
